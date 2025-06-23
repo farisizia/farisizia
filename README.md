@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Faris Izzi Asrori
 
+Learning how to test things, break things (on purpose), and make the web a better place. Currently playing around with Cypress, Katalon, and some web tech like Laravel and Tailwind. Into bugs, clean UIs, and a good cup of coffee.
+
+
 🎓 Fresh Graduate in Software Engineering from Telkom University  
 💻 Interested in Quality Assurance, Automation Testing, and Web Development  
 📚 Currently learning Katalon Studio and Cypress
